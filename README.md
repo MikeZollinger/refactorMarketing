@@ -4,7 +4,7 @@ refactorMarketing is an edited code to improve formatting of content in the CSS 
 
 ## Live Site
 
-[pip](https://mikezollinger.github.io/refactorMarketing/)
+(https://mikezollinger.github.io/refactorMarketing/)
 
 ```bash
 pip install foobar
