@@ -8,7 +8,7 @@ https://mikezollinger.github.io/refactorMarketing/
 
 ## Screenshot
 
-![Image]\(https://github.com/MikeZollinger/refactorMarketing/blob/main/images/websitess.png)
+![Caption](/https://github.com/MikeZollinger/refactorMarketing/blob/main/images/websitess.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
